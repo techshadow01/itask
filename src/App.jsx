@@ -75,7 +75,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <div className="Container max-sm:w-full  max-sm:h-full max-sm:m-0 max-sm:h-full">
+      <div className="Container max-sm:w-full  max-sm:h-full max-sm:m-0 max-sm:h-screen">
         <div className="font-bold text-xl">Add a Todo</div>
         <div className="flex items-center justify-center h-9">
           <input className=" w-[calc(100%-60px)] p-2 rounded-3xl" type="text" name='todo' placeholder="write here...." onChange={handleChange} value={todo} />
