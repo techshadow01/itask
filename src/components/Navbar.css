@@ -1,0 +1,23 @@
+.Navbar1 {
+    position: sticky;
+    top: 0px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 15px 20px;
+    background-color: #322F81;
+}
+
+.Navbar1 ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    cursor: pointer;
+    color: white;
+}
+
+ul li:hover {
+    font-weight: 500;
+}
