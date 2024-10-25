@@ -19,7 +19,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 8px;
-    height:100%;
+    height:90vh;
 }
 
 .YourT {
