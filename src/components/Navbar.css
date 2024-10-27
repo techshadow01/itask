@@ -7,6 +7,7 @@
     justify-content: space-around;
     padding: 15px 20px;
     background-color: #322F81;
+    z-index:1;
 }
 
 .Navbar1 ul {
